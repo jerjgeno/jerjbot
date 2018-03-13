@@ -1,0 +1,31 @@
+{
+  "name": "jerjbot",
+  "version": "1.0.0",
+  "description": "Discord bot",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerjgeno/jerjbot.git"
+  },
+  "scripts": {
+    "test": "node main.js"
+  },
+  "keywords": [
+    "Discord.js",
+    "Discord",
+    "Bot",
+    "Hello",
+    "World"
+  ],
+  "author": "Julian Yaman <mail@julianyaman.de>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerjgeno/jerjbot/issues"
+  },
+  "homepage": "https://github.com/jerjgeno/jerjbot#readme",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "npm": "^5.7.1",
+    "sqlite": "^2.9.1"
+  }
+}
